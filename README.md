@@ -1,2 +1,2 @@
 # Pr-cticas-en-Java
-Pequeñas prácticas en JAVA con el IDE de Apache NetBeans
+Pequeñas prácticas personales en JAVA con el IDE de Apache NetBeans
